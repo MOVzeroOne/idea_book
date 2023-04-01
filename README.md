@@ -1,8 +1,8 @@
-##Idea book 
+<h1> Idea book </h1>
 peliminary idea and similar shower thoughts
 
 
-#meta_learned_crossover
+<h2> meta_learned_crossover </h2>
 
 Given the paper from A Modern Self-Referential Weight Matrix That Learns to Modify Itself. The idea that directly comes to mind is can we use this to improve GA's, one of the big problems with GA's is the fact that crossover will not produce healty offspring.
 
