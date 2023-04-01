@@ -1,5 +1,5 @@
 <h1> Idea book </h1>
-peliminary idea and similar shower thoughts
+peliminary ideas
 
 
 <h2> meta_learned_crossover </h2>
